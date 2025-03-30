@@ -1,4 +1,3 @@
-# 16DOF_Full_Vehicle_Model 
 # Modelling and validation of 16 DOF full vehicle model for guidance control 
 by Kyungdeuk Min; Yeun-Sub Byun; Young Chol Kim
 ---------------------------------------------------------------------------------
