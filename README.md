@@ -1,7 +1,7 @@
 International Journal of Vehicle Systems Modelling and Testing (IJVSMT), Vol. 10, No. 4, 2015
 
 # Modelling and validation of 16 DOF full vehicle model for guidance control 
-Kyungdeuk Min; Yeun-Sub Byun; Young Chol Kim
+# Kyungdeuk Min; Yeun-Sub Byun; Young Chol Kim
 
  Abstract: Athree-dimensional dynamicmodelforsimulatingvariousmotionsof
  two-wheel-steering vehicles is presented. The model has 16 independent degrees
